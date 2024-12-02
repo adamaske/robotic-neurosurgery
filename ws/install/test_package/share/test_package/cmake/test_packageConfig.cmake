@@ -1,1 +1,1 @@
-/home/adam/dev/robotic-neurosurgery/dev_ws/build/test_package/ament_cmake_core/test_packageConfig.cmake
+/home/adam/dev/robotic-neurosurgery/ws/build/test_package/ament_cmake_core/test_packageConfig.cmake

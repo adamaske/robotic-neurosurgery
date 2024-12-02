@@ -1,1 +1,1 @@
-/home/adam/dev/robotic-neurosurgery/dev_ws/src/test_package/launch/talker.launch.py
+/home/adam/dev/robotic-neurosurgery/ws/src/test_package/launch/talker.launch.py
