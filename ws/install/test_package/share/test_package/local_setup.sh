@@ -1,1 +1,0 @@
-/home/adam/dev/robotic-neurosurgery/ws/build/test_package/ament_cmake_environment_hooks/local_setup.sh

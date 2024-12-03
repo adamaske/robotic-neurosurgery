@@ -25,5 +25,8 @@ endif()
 
 #ROS needs to know about our launch directory
 install(DIRECTORY launch DESTINATION share/${PROJECT_NAME})
+install(DIRECTORY urdf DESTINATION share/${PROJECT_NAME})
+install(DIRECTORY worlds DESTINATION share/${PROJECT_NAME})
+
 
 ament_package()
